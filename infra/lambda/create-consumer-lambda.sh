@@ -1,6 +1,6 @@
 echo "Ziping consumer Lambda source code..."
 
-zip minerva-entities-consumer.zip minerva-entities-consumer.py
+zip ../../src/lambdas/minerva-entities-consumer.zip minerva-entities-consumer.py
 
 echo "Creating consumer Lambda function..."
 

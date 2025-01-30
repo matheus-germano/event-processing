@@ -1,6 +1,6 @@
 echo "Ziping producer Lambda source code..."
 
-zip minerva-entities-producer.zip minerva-entities-producer.py
+zip ../../src/minerva-entities-producer.zip minerva-entities-producer.py
 
 echo "Creating producer Lambda function..."
 
